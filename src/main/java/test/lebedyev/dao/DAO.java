@@ -9,7 +9,7 @@ import test.lebedyev.model.Article;
 public interface DAO
 {
     /**
-     * @param article - an Article object that should be added to DB
+     * @param article - an Article object that should be added to DB.
      * @return - true if object successfully added, false - otherwise
      */
     public boolean add(Article article);
