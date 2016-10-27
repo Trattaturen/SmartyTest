@@ -1,0 +1,1017 @@
+2016-10-27 10:22:33 INFO  WorkerImpl:67 - Initializing new Worker
+2016-10-27 10:22:34 INFO  plugins:180 - [Longneck] modules [], plugins [], sites []
+2016-10-27 10:22:36 INFO  WorkerImpl:91 - 2016-10-27 10:22:36 INFO  ManagerImpl:125 - Manager got wakeUp call
+2016-10-27 10:22:36 INFO2016-10-27 10:22:36 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:36 INFO  DaoHandlerCallable:37 - Callable adding Article t2016-10-27 10:22:41 I2016-10-27 10:22:41 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB2016-10-27 10:22:2016-10-27 10:22:41 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB poo2016-10-27 102016-10-27 10:22:42 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-2016-10-22016-10-27 10:22:42 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thre2016-2016-10-27 10:22:42 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-122016-10-27 10:22:42 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:42 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:43 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:43 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:43 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:43 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:43 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:44 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:44 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:44 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:44 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:44 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:45 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:45 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:45 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:45 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:45 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:45 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:45 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:45 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:45 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:45 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:45 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:45 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:46 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:46 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:46 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:46 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:46 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:46 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:46 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:46 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:47 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:47 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:47 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:47 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:47 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:47 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:47 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:47 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:47 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:49 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:49 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:49 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:49 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:49 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:49 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:49 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:49 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:49 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:49 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:49 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:49 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:49 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:49 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:49 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:49 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:49 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:49 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:49 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:50 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:50 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:50 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:50 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:50 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:50 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:50 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:50 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:50 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:50 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:50 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:50 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:50 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:50 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:50 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:50 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:51 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:51 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:51 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:51 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:51 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:51 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:51 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:51 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:51 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:51 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:51 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:51 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:51 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:51 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:51 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:51 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:52 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:52 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:52 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:52 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:52 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:52 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:52 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:52 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:52 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:52 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:52 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:52 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:52 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:53 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:53 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:53 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:53 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:53 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:53 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:53 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:53 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:53 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:53 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:53 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:53 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:53 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:53 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:53 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:54 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:54 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:54 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:54 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:54 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:54 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:54 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:54 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:54 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:55 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:55 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:55 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:55 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:55 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:55 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:55 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:55 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:55 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:55 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:55 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:56 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:56 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:56 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:56 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:56 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:56 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:56 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:56 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:56 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:56 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:56 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:56 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:57 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:57 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:57 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:57 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:57 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:57 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:57 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:57 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:57 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:57 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:57 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:57 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:58 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:58 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:58 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:58 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:58 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:58 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:58 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:58 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:58 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:58 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:58 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:58 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:58 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:58 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:58 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:58 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:59 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:59 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:59 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:59 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:59 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:59 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:22:59 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:00 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:00 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:00 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:00 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:00 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:00 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:00 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:00 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:01 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:01 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:01 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:01 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:01 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:01 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:01 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:01 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:01 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:01 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:01 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:01 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:01 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:01 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:01 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:01 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:02 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:02 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:02 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:02 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:02 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:02 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:02 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:02 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:02 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:02 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:02 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:02 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:02 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:02 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:02 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:02 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:02 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:02 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:02 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:02 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:03 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:03 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:03 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:03 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:03 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:03 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:03 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:03 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:03 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:03 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:03 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:03 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:03 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:03 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:03 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:03 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:03 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:04 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:04 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:04 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:04 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:04 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:04 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:04 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:04 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:04 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:04 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:04 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:04 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:04 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:04 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:04 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:05 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:05 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:05 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:05 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:05 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:05 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:05 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:05 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:05 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:05 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:05 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:05 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:05 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:06 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:06 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:06 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:06 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:06 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:06 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:06 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:06 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:06 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:06 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:06 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:06 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:06 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:06 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:06 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:07 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:07 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:07 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:07 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:07 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:07 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:07 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:07 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:07 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:07 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:07 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:07 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:08 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:08 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:08 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:08 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:08 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:08 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:08 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:09 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:09 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:09 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:09 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:09 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:09 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:09 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:10 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:10 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:10 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:10 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:10 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:10 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:10 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:11 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:11 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:11 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:11 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:11 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:11 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:11 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:12 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:12 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:12 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:12 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:12 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:12 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:12 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:12 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:12 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:12 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:12 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:12 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:12 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:12 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:12 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:12 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:12 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:13 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:13 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:13 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:13 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:13 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:14 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:14 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:14 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:14 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:14 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:14 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:14 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:14 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:14 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:14 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:14 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:14 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:14 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:14 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:14 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:15 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:15 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:15 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:15 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:15 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:15 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:15 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:15 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:15 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:15 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:15 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:15 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:15 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:15 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:15 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:16 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:16 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:16 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:16 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:16 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:16 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:16 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:16 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:16 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:16 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:16 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:16 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:17 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:17 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:17 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:17 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:17 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:17 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:17 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:17 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:17 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:17 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:17 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:17 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:18 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:18 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:18 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:18 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:18 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:18 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:18 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:18 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:18 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:18 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:18 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:18 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:19 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:19 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:19 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:19 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:19 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:19 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:19 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:19 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:19 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:19 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:19 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:19 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:19 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:20 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:20 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:20 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:20 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:20 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:20 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:20 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:20 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:20 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:20 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:20 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:21 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:21 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:21 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:21 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:21 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:21 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:21 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:21 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:21 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:22 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:22 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:22 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:22 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:22 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:22 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:22 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:22 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:22 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:22 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:22 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:22 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:22 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:22 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:22 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:22 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:22 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:22 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:22 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:23 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:23 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:23 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:23 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:23 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:23 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:23 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:24 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:24 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:24 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:24 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:24 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:24 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:24 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:24 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:25 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:25 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:25 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:25 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:25 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:25 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:25 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:25 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:25 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:25 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:25 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:25 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:25 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:25 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:25 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:25 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:25 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:26 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:26 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:26 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:26 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:26 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:26 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:26 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:26 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:26 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:26 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:26 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:27 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:27 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:27 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:27 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:27 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:27 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:27 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:27 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:27 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:27 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:27 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:27 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:27 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:28 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:28 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:28 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:28 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:28 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:28 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:28 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:28 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:28 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:28 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:28 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:28 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:29 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:29 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:29 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:29 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:29 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:29 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:29 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:29 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:29 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:29 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:29 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:29 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:29 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:29 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:29 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:30 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:30 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:30 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:30 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:30 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:30 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:30 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:30 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:31 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:31 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:31 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:31 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:31 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:31 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:31 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:31 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:31 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:31 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:31 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:31 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:32 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:32 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:32 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:32 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:32 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:32 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:32 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:32 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:32 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:33 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:33 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:33 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:33 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:33 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:33 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:33 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:33 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:33 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:33 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:33 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:33 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:33 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:33 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:33 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:33 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:34 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:34 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:34 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:34 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:34 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:34 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:35 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:35 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:35 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:35 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:35 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:35 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:35 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:35 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:35 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:35 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:35 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:35 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:35 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:35 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:35 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:35 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:35 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:35 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:35 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:35 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:36 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:36 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:36 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:36 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:36 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:36 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:36 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:37 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:37 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:37 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:37 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:37 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:37 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:37 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:37 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:37 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:37 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:37 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:37 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:37 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:37 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:37 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:37 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:37 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:37 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:37 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:37 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:37 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:38 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:38 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:38 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:38 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:38 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:38 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:38 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:38 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:38 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:38 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:38 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:38 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:38 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:38 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:38 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:38 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:39 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:39 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:39 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:39 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:39 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:39 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:39 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:39 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:39 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:39 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:39 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:39 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:40 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:40 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:40 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:40 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:40 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:40 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:40 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:40 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:40 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:40 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:40 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:40 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:40 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:40 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:40 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:41 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:41 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:41 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:41 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:41 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:42 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:42 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:42 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:42 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:42 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:43 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:43 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:43 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:43 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:43 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:44 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:44 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:44 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:44 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:44 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:45 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:45 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:45 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:45 INFO  WorkerImpl:107 - Creating new WorkerThread
+2016-10-27 10:23:45 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-2
+2016-10-27 10:23:45 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-3
+2016-10-27 10:23:45 INFO  DaoHandlerCallable:37 - Callable adding Article to DB pool-1-thread-1
+2016-10-27 10:23:45 INFO  WorkerImpl:107 - Creating new WorkerThread
+8 - Found free worker. Giving him a task
+2016-10-27 10:23:44 INFO  ManagerImpl:105 - Getting next record from Redis
+2016-10-27 10:23:44 INFO  ManagerImpl:90 - Manager starting waiting
+2016-10-27 10:23:44 INFO  ManagerImpl:125 - Manager got wakeUp call
+2016-10-27 10:23:44 INFO  ManagerImpl:72 - Iterating over Workers map
+2016-10-27 10:23:44 INFO  ManagerImpl:78 - Found free worker. Giving him a task
+2016-10-27 10:23:44 INFO  ManagerImpl:105 - Getting next record from Redis
+2016-10-27 10:23:44 INFO  ManagerImpl:90 - Manager starting waiting
+2016-10-27 10:23:45 INFO  ManagerImpl:125 - Manager got wakeUp call
+2016-10-27 10:23:45 INFO  ManagerImpl:72 - Iterating over Workers map
+2016-10-27 10:23:45 INFO  ManagerImpl:78 - Found free worker. Giving him a task
+2016-10-27 10:23:45 INFO  ManagerImpl:105 - Getting next record from Redis
+2016-10-27 10:23:45 INFO  ManagerImpl:90 - Manager starting waiting
+2016-10-27 10:23:45 INFO  ManagerImpl:125 - Manager got wakeUp call
+2016-10-27 10:23:45 INFO  ManagerImpl:72 - Iterating over Workers map
+2016-10-27 10:23:45 INFO  ManagerImpl:78 - Found free worker. Giving him a task
+2016-10-27 10:23:45 INFO  ManagerImpl:105 - Getting next record from Redis
+2016-10-27 10:23:45 INFO  ManagerImpl:109 - No records left in Redis
+2016-10-27 10:23:45 INFO  ManagerImpl:90 - Manager starting waiting
