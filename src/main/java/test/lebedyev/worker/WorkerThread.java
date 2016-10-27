@@ -10,21 +10,22 @@ import org.apache.log4j.Logger;
 import test.lebedyev.manager.Manager;
 import test.lebedyev.model.Article;
 
+/**
+ * A thread that is instntiated by Worker and processes a job:
+ * 1. Parsing json to Article object
+ * 2. Translating title if necessary
+ * 3. Staring 3 daoHandlersCallanles
+ */
 public class WorkerThread implements Runnable
 {
     final static Logger logger = Logger.getLogger(WorkerThread.class);
-
     private static final int THREADS_NUMBER = 3;
-
     private String json;
-
     private Manager manager;
     private WorkerImpl worker;
-
     private Translator translator;
     private MyJsonParser parser;
     private CompletionService<Boolean> taskCompletionService;
-
     // DaoHandlerCallables, responsible for data persistence
     private DaoHandlerCallable daoHandlerNeo4j;
     private DaoHandlerCallable daoHandlerElasticSearch;
@@ -57,17 +58,11 @@ public class WorkerThread implements Runnable
 	}
 
 	logger.debug("Parsing json " + Thread.currentThread().getName());
-
 	Article article = parser.parseJson(json);
-
 	translate(article);
-
 	submitCallables(article);
-
 	getCallablesResults();
-
 	logger.debug("All callables responded" + Thread.currentThread().getName());
-
 	worker.setFinished(true);
 	try
 	{
@@ -77,7 +72,6 @@ public class WorkerThread implements Runnable
 	{
 	    logger.error("Exception while waking up manager", e);
 	}
-
     }
 
     private void translate(Article article)
@@ -91,7 +85,6 @@ public class WorkerThread implements Runnable
 	    logger.debug("Title is empty. Setting translated title to empty " + Thread.currentThread().getName());
 	    article.setTranslatedTitle("");
 	}
-
     }
 
     private void submitCallables(Article article)
@@ -107,7 +100,6 @@ public class WorkerThread implements Runnable
 	logger.debug("Submitting task to MySQLHandler " + Thread.currentThread().getName());
 	daoHandlerMySQL.setArticle(article);
 	taskCompletionService.submit(daoHandlerMySQL);
-
     }
 
     private void getCallablesResults()
@@ -130,9 +122,6 @@ public class WorkerThread implements Runnable
 	    {
 		logger.error("Exception while getting result from Callables", e);
 	    }
-
 	}
-
     }
-
 }

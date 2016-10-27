@@ -17,13 +17,6 @@ import test.lebedyev.dao.DaoImplMySQL;
 import test.lebedyev.dao.DaoImplNeo4j;
 import test.lebedyev.manager.Manager;
 
-/**
- * Class that is instantiated by Manager. REsponsible for general operation with
- * data:
- * 1. Parsing Json to Article object
- * 2. Translating title if required
- * 3. Creating pool of threads that store data to DBs in parallel
- */
 public class WorkerImpl extends UnicastRemoteObject implements Worker
 {
 
@@ -31,43 +24,34 @@ public class WorkerImpl extends UnicastRemoteObject implements Worker
 
     final static Logger logger = Logger.getLogger(WorkerImpl.class);
 
-    /**
-     * Constant number of threads, that are invoked for DB persistence of
-     * Article
-     */
-    private static final int THREADS_NUMBER = 3;
-
-    private static final String RMI_HOST = "rmi://192.168.1.54:1099/Manager";
-
-    // Current json that is beeing processed
-    // private String json;
+    private static final int DEFAULT_THREAD_QUANTITY = 3;
+    private static final String DEFAULT_MANAGER_RMI_HOST = "rmi://192.168.1.54:1099/Manager";
 
     /**
      * Flag that shows if worker finished job
      */
+    private String managerHost;
+    private Manager manager;
     private boolean finished = true;
-
     private String name;
-
     private Translator translator;
     private MyJsonParser parser;
     private ExecutorService executorService;
-    private Manager manager;
     private CompletionService<Boolean> taskCompletionService;
-
     // DaoHandlerCallables, responsible for data persistence
     private DaoHandlerCallable daoHandlerNeo4j;
     private DaoHandlerCallable daoHandlerElasticSearch;
     private DaoHandlerCallable daoHandlerMySQL;
 
-    /**
-    
-     */
-    public WorkerImpl() throws RemoteException {
+    public WorkerImpl(String managerHost) throws RemoteException {
 	logger.info("Initializing new Worker");
+	this.managerHost = managerHost;
 	name = String.valueOf(System.currentTimeMillis());
 	init();
+    }
 
+    public WorkerImpl() throws RemoteException {
+	this(DEFAULT_MANAGER_RMI_HOST);
     }
 
     /**
@@ -77,13 +61,14 @@ public class WorkerImpl extends UnicastRemoteObject implements Worker
     {
 	translator = new Translator();
 	parser = new MyJsonParser();
-	executorService = Executors.newFixedThreadPool(THREADS_NUMBER);
+	executorService = Executors.newFixedThreadPool(DEFAULT_THREAD_QUANTITY);
 	taskCompletionService = new ExecutorCompletionService<Boolean>(executorService);
 	// Initializing DaoHandlers
 	daoHandlerNeo4j = new DaoHandlerCallable(DaoImplNeo4j.getInstance());
 	daoHandlerElasticSearch = new DaoHandlerCallable(DaoImplElasticSearch.getInstance());
 	daoHandlerMySQL = new DaoHandlerCallable(DaoImplMySQL.getInstance());
 
+	logger.info("Starting progress checker");
 	new Thread(new ProgressChecker()).start();
 
 	while (manager == null)
@@ -91,13 +76,12 @@ public class WorkerImpl extends UnicastRemoteObject implements Worker
 	    try
 	    {
 		logger.info("Trying to get Manager on rmi");
-		manager = (Manager) Naming.lookup(RMI_HOST);
+		manager = (Manager) Naming.lookup(managerHost);
 		logger.info("Connected to manager");
 		manager.wakeUp(this);
 	    } catch (MalformedURLException | RemoteException | NotBoundException e)
 	    {
-
-		logger.error("Could not connect to manager");
+		logger.error("Could not connect to manager", e);
 	    }
 	}
 
@@ -110,7 +94,6 @@ public class WorkerImpl extends UnicastRemoteObject implements Worker
 	WorkerThread workerThread = new WorkerThread(json, translator, parser, taskCompletionService, daoHandlerNeo4j, daoHandlerElasticSearch,
 		daoHandlerMySQL, manager, this);
 	new Thread(workerThread).start();
-
     }
 
     public boolean isFinished()

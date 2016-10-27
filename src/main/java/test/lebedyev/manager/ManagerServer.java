@@ -9,7 +9,6 @@ public class ManagerServer
 {
     public static void main(String[] args)
     {
-
 	try
 	{
 	    LocateRegistry.createRegistry(1099);

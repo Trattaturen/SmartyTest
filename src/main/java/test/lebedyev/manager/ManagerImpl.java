@@ -12,60 +12,51 @@ import redis.clients.jedis.Jedis;
 import test.lebedyev.worker.Worker;
 
 /**
- * Class that starts workers, gives them jobs
+ * Class that searches for free workers and assigns tasks from Redis to them.
+ * Sleeps in case all workers are in progress
  */
 public class ManagerImpl extends UnicastRemoteObject implements Manager, Runnable
 {
 
     private static final long serialVersionUID = 1L;
-
     final static Logger logger = Logger.getLogger(ManagerImpl.class);
-
     private static final String DEFAULT_JEDIS_HOST = "localhost";
-
     private static final String DEFAULT_REDIS_LIST_NAME = "testInput";
-    // Name of list in jedis
     private String redisListName;
     private Jedis jedis;
     private boolean tasksInRedis;
-
     private Map<String, Worker> workers;
 
+    /**
+     * Default conctructor. Uses default parameters
+     * 
+     * @throws RemoteException
+     */
     public ManagerImpl() throws RemoteException {
 	this(DEFAULT_JEDIS_HOST, DEFAULT_REDIS_LIST_NAME);
     }
 
     /**
-    
+     * Custom constructor
+     * 
+     * @param jedisHost
+     *            - host, on which redis is running
+     * @param redisListName
+     *            - name of a list(queue) in Redis where tasks are stored
+     * @throws RemoteException
      */
     public ManagerImpl(String jedisHost, String redisListName) throws RemoteException {
 	logger.info("Creating manager");
-
 	this.redisListName = redisListName;
 	jedis = new Jedis(jedisHost);
-	init();
-    }
-
-    /**
-     * Method to initialize necessary objects of Manager
-     */
-    public void init()
-    {
-	logger.info("Initializing manager");
-	// Checking if there is anything in Redis
 	tasksInRedis = jedis.llen(redisListName) > 0;
 	workers = new HashMap<>();
-	// Creating given amount of workers
-
     }
 
-    /**
-    
-     */
+    // General method to assign tasks to Workers and wait
+    @Override
     public void run()
     {
-
-	// General loop to assign tasks to Workers
 	while (tasksInRedis)
 	{
 	    for (Entry<String, Worker> currentEntry : workers.entrySet())
@@ -113,11 +104,6 @@ public class ManagerImpl extends UnicastRemoteObject implements Manager, Runnabl
 	}
 
 	return stringFromRedis;
-    }
-
-    public boolean isTasksInJedis()
-    {
-	return tasksInRedis;
     }
 
     @Override
