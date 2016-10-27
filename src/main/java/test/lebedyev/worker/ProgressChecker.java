@@ -4,7 +4,6 @@ import redis.clients.jedis.Jedis;
 import test.lebedyev.dao.DaoImplElasticSearch;
 import test.lebedyev.dao.DaoImplMySQL;
 import test.lebedyev.dao.DaoImplNeo4j;
-import test.lebedyev.initialization.ElasticSearcher;
 
 /**
  * Class that checks current progress of adding Articles to different DBs
@@ -16,7 +15,6 @@ public class ProgressChecker implements Runnable
     private static final String DEFAULT_KEY_NAME = "current_count";
 
     // Quantity of initial documents (from given ElasticSearch server)
-    private int initialSize;
 
     private String host;
     private String keyName;
@@ -42,10 +40,6 @@ public class ProgressChecker implements Runnable
 	daoImplNeo4j = DaoImplNeo4j.getInstance();
 	daoImplMySQL = DaoImplMySQL.getInstance();
 
-	// getting quantity of initial documents (from given ElasticSearch
-	// server)
-	initialSize = ElasticSearcher.getTotalHits();
-
     }
 
     @Override
@@ -55,7 +49,7 @@ public class ProgressChecker implements Runnable
 
 	// loop that prints total count of objects in 3 DBs each 10 seconds.
 	// Breaks when initialSize is reached
-	while (countNeo4j < initialSize && countElasticSearch < initialSize && countMySQL < initialSize)
+	while (true)
 	{
 	    try
 	    {

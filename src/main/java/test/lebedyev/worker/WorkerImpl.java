@@ -84,6 +84,8 @@ public class WorkerImpl extends UnicastRemoteObject implements Worker
 	daoHandlerElasticSearch = new DaoHandlerCallable(DaoImplElasticSearch.getInstance());
 	daoHandlerMySQL = new DaoHandlerCallable(DaoImplMySQL.getInstance());
 
+	new Thread(new ProgressChecker()).start();
+
 	while (manager == null)
 	{
 	    try

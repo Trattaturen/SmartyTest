@@ -64,6 +64,7 @@ public class ManagerImpl extends UnicastRemoteObject implements Manager, Runnabl
      */
     public void run()
     {
+
 	// General loop to assign tasks to Workers
 	while (tasksInRedis)
 	{
