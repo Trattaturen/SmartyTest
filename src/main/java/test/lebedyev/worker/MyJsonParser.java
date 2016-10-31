@@ -32,7 +32,7 @@ public class MyJsonParser
      *            - a json string, that represents Article object
      * @return Article object
      */
-    public Article parseJson(String json)
+    public synchronized Article parseJson(String json)
     {
 	if (json == null || json.isEmpty())
 	{

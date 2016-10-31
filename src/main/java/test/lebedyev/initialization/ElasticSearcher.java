@@ -21,20 +21,22 @@ public class ElasticSearcher
 
 {
     final static Logger logger = Logger.getLogger(ElasticSearcher.class);
-    private static final String DEFAULT_URL = "192.168.1.242";
+    private static final String DEFAULT_URL = "localhost";
     private static final int DEFAULT_PORT = 9300;
-    private static final String DEFAULT_CLUSTER_NAME = "mr_dima";
+    private static final String DEFAULT_CLUSTER_NAME = "lebedev-test-cluster";
+    private static final String DEFAULT_INDEX_NAME = "initial";
     private static int totalHits;
 
     private String url;
     private int port;
     private String clusterName;
+    private String indexName;
 
     /**
      * Default constructor, that uses default parameters
      */
     public ElasticSearcher() {
-	this(DEFAULT_URL, DEFAULT_PORT, DEFAULT_CLUSTER_NAME);
+	this(DEFAULT_URL, DEFAULT_PORT, DEFAULT_CLUSTER_NAME, DEFAULT_INDEX_NAME);
 
     }
 
@@ -46,11 +48,12 @@ public class ElasticSearcher
      * @param clusterName
      *            - ElasticSearch cluster name
      */
-    public ElasticSearcher(String url, int port, String clusterName) {
+    public ElasticSearcher(String url, int port, String clusterName, String indexName) {
 	logger.debug("Initializing ElasticSearcher");
 	this.url = url;
 	this.port = port;
 	this.clusterName = clusterName;
+	this.indexName = indexName;
     }
 
     public static int getTotalHits()
@@ -75,13 +78,13 @@ public class ElasticSearcher
 	    logger.info("Executing count request");
 	    // A request that shows the amount of documents under given index
 	    // without returning them
-	    SearchResponse initialResponse = client.prepareSearch().setSize(0).execute().actionGet();
+	    SearchResponse initialResponse = client.prepareSearch(indexName).setSize(0).execute().actionGet();
 	    // Amount of documents under given index
 	    totalHits = (int) initialResponse.getHits().getTotalHits();
 	    logger.info("Got total hits:" + totalHits);
 
 	    logger.info("Executing get request");
-	    SearchResponse response = client.prepareSearch().setSize(totalHits).execute().actionGet();
+	    SearchResponse response = client.prepareSearch(indexName).setSize(totalHits).execute().actionGet();
 
 	    logger.info("Getting data from response");
 	    for (SearchHit hit : response.getHits().getHits())

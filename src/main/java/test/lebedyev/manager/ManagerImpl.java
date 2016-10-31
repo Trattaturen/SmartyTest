@@ -59,22 +59,24 @@ public class ManagerImpl extends UnicastRemoteObject implements Manager, Runnabl
     {
 	while (tasksInRedis)
 	{
-	    for (Entry<String, Worker> currentEntry : workers.entrySet())
+
+	    Worker freeWorker;
+	    logger.info("Looking for free worker");
+	    while ((freeWorker = findFreeWorker()) != null)
 	    {
-		logger.info("Iterating over Workers map");
-		Worker currentWorker = currentEntry.getValue();
+		logger.info("Free worker found");
+		String task = getNextObjectFromRedis();
 		try
 		{
-		    if (currentWorker.isFinished())
-		    {
-			logger.info("Found free worker. Giving him a task");
-			currentWorker.execute(getNextObjectFromRedis());
-		    }
+		    logger.info("Giving task to free worker");
+		    freeWorker.execute(task);
 		} catch (RemoteException e)
 		{
-		    logger.error("Problems while searching for free worker ", e);
+		    logger.error("Problems with worker. Saving task back to Redis ", e);
+		    jedis.lpush(redisListName, task);
 		}
 	    }
+	    logger.info("No free workers at this time. Waiting");
 	    synchronized (this)
 	    {
 		try
@@ -87,6 +89,32 @@ public class ManagerImpl extends UnicastRemoteObject implements Manager, Runnabl
 		}
 	    }
 	}
+    }
+
+    /**
+     * @return free worker or null if all are busy
+     */
+    private Worker findFreeWorker()
+    {
+	for (Entry<String, Worker> currentEntry : workers.entrySet())
+	{
+	    logger.debug("Iterating over Workers map");
+	    Worker currentWorker = currentEntry.getValue();
+	    try
+	    {
+		if (!currentWorker.isBusy())
+		{
+		    logger.debug("Found free worker");
+		    return currentWorker;
+
+		}
+	    } catch (RemoteException e)
+	    {
+		logger.error("Problems while searching for free worker ", e);
+	    }
+	}
+	return null;
+
     }
 
     /**

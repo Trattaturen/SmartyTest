@@ -18,11 +18,18 @@ public interface Worker extends Remote
      * @return true if worker finished, false - otherwise
      * @throws RemoteException
      */
-    public boolean isFinished() throws RemoteException;
+    public boolean isBusy() throws RemoteException;
 
     /**
      * @return name of a current worker
      * @throws RemoteException
      */
     public String getName() throws RemoteException;
+
+    /**
+     * Method to set quantity of threads, a Worker can start
+     * 
+     * @throws RemoteException
+     */
+    public void setThreadsQuantity(int threadsQuantity) throws RemoteException;
 }

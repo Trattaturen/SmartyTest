@@ -1,13 +1,17 @@
 package test.lebedyev.worker;
 
-import java.rmi.RemoteException;
 import java.util.concurrent.CompletionService;
 import java.util.concurrent.ExecutionException;
+import java.util.concurrent.ExecutorCompletionService;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
 import org.apache.log4j.Logger;
 
-import test.lebedyev.manager.Manager;
+import test.lebedyev.dao.DaoImplElasticSearch;
+import test.lebedyev.dao.DaoImplMySQL;
+import test.lebedyev.dao.DaoImplNeo4j;
 import test.lebedyev.model.Article;
 
 /**
@@ -19,31 +23,37 @@ import test.lebedyev.model.Article;
 public class WorkerThread implements Runnable
 {
     final static Logger logger = Logger.getLogger(WorkerThread.class);
-    private static final int THREADS_NUMBER = 3;
+    private static final int DAO_THREAD_QUANTITY = 3;
+
     private String json;
-    private Manager manager;
     private WorkerImpl worker;
     private Translator translator;
     private MyJsonParser parser;
+    private ExecutorService executorService;
     private CompletionService<Boolean> taskCompletionService;
     // DaoHandlerCallables, responsible for data persistence
     private DaoHandlerCallable daoHandlerNeo4j;
     private DaoHandlerCallable daoHandlerElasticSearch;
     private DaoHandlerCallable daoHandlerMySQL;
 
-    public WorkerThread(String json, Translator translator, MyJsonParser parser, CompletionService<Boolean> taskCompletionService,
-	    DaoHandlerCallable daoHandlerNeo4j, DaoHandlerCallable daoHandlerElasticSearch, DaoHandlerCallable daoHandlerMySQL, Manager manager,
-	    WorkerImpl worker) {
+    public WorkerThread(String json, Translator translator, MyJsonParser parser, WorkerImpl worker) {
 	logger.debug("Initializing new WorkerThread");
 	this.json = json;
-	this.manager = manager;
 	this.worker = worker;
 	this.translator = translator;
 	this.parser = parser;
-	this.taskCompletionService = taskCompletionService;
-	this.daoHandlerNeo4j = daoHandlerNeo4j;
-	this.daoHandlerElasticSearch = daoHandlerElasticSearch;
-	this.daoHandlerMySQL = daoHandlerMySQL;
+	init();
+
+    }
+
+    private void init()
+    {
+	executorService = Executors.newFixedThreadPool(DAO_THREAD_QUANTITY);
+	taskCompletionService = new ExecutorCompletionService<Boolean>(executorService);
+	// Initializing DaoHandlers
+	daoHandlerNeo4j = new DaoHandlerCallable(DaoImplNeo4j.getInstance());
+	daoHandlerElasticSearch = new DaoHandlerCallable(DaoImplElasticSearch.getInstance());
+	daoHandlerMySQL = new DaoHandlerCallable(DaoImplMySQL.getInstance());
     }
 
     @Override
@@ -63,15 +73,14 @@ public class WorkerThread implements Runnable
 	submitCallables(article);
 	getCallablesResults();
 	logger.debug("All callables responded" + Thread.currentThread().getName());
-	worker.setFinished(true);
-	try
-	{
-	    logger.debug("Waking up Manager " + Thread.currentThread().getName());
-	    manager.wakeUp(worker);
-	} catch (RemoteException e)
-	{
-	    logger.error("Exception while waking up manager", e);
-	}
+
+	// Decreasing Worker runningThreads marker to show that this thread is
+	// over
+	worker.decreaseRunningThreads();
+	// Notifying worker it is free
+	worker.setBusy(false);
+	// Calling worker to wake up manager
+	worker.wakeUpManager();
     }
 
     private void translate(Article article)
@@ -105,7 +114,7 @@ public class WorkerThread implements Runnable
     private void getCallablesResults()
     {
 	logger.debug("Waiting for results from callables " + Thread.currentThread().getName());
-	for (int i = 0; i < THREADS_NUMBER; i++)
+	for (int i = 0; i < DAO_THREAD_QUANTITY; i++)
 	{
 	    Future<Boolean> result;
 	    try

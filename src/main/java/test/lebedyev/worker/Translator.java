@@ -41,7 +41,7 @@ public class Translator
      *            - a String that will be translated
      * @return - String with translated text
      */
-    public String post(String toTranslate)
+    public synchronized String post(String toTranslate)
     {
 
 	String translated = null;
